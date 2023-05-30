@@ -6,7 +6,7 @@
 This code implements a simple ATM system using C++. It allows the user to access their account by entering their account number and password. Once logged in, the user can perform various actions such as  viewing user details, checking balance, withdrawing cash, depositing cash, and updating mobile number. The program uses a switch statement to perform different actions based on the user's choice. If the user chooses to exit, it displays a message "Thankyou! Have a good day." and terminates the program.
 
 ## Concepts used
-* Classes and objects (OOPS)
+* C++, Classes and objects (OOPS)
 * Control flow statements (If-else, switch)
 * Basic arithmetic operations
 * Input/Output operations (cin, cout) to prompt the users for input or to display the messages.
@@ -54,7 +54,7 @@ A function named "authenticate" has been created with arguments account number a
 `bool authenticate(int accNo, int pw)`
 
 ## Main Function
-The main() function initializes five Bank account objects with different account details. It prompts the user to enter their account number and password, and checks if they are correct. If the credentials are correct, it allows the user to access their account and perform various actions such as checking balance, withdrawing cash, depositing cash, viewing user details, updating mobile number, updating password.
+The main() function initializes five Bank account objects with different account details. It displays "Welcome to BVIT" and prompts the user to enter their account number and password, and checks if they are correct. If the credentials are correct, it displays the name of the user and allows the user to access their account and perform various actions such as checking balance, withdrawing cash, depositing cash, viewing user details, updating mobile number, updating password.
 The program uses a switch statement to perform different actions based on the user's choice. The options are as follows:
 1. Check balance
 2. Withdraw cash
@@ -81,6 +81,13 @@ If the user chooses to update their password, it prompts the user to enter their
 If the user chooses to exit, it displays the message "Thankyou, Have a good day." and terminates the program.
 
 If any invalid choice is given, then it displays "Invalid choice" by default.
+
+## Sample Output
+<img width="638" alt="image" src="https://github.com/Anshul-V/Mini-Bank/assets/134433637/bf5c9568-5225-4544-bf65-5718242a23f3">
+
+
+
+
 
 
 
