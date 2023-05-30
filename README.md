@@ -7,4 +7,8 @@ This code implements a simple ATM system using C++. It allows the user to access
 * Classes and objects (OOPS)
 * Control flow statements (If-else, switch)
 * Basic arithmetic operations
+* Input/Output operations such as 'cin' 'cout' to prompt the user for input for display the messages.
+
+
+
 
