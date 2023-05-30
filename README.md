@@ -1,3 +1,3 @@
-### Mini-Bank
+# Mini-Bank
 
-# Introduction
+## Introduction
