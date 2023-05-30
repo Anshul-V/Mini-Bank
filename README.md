@@ -78,7 +78,7 @@ If the user chooses to update their mobile number, it prompts the user to enter 
 
 If the user chooses to update their password, it prompts the user to enter their new password. It calls the updatePassword() method of the corresponding bank_account object and updates the password.
 
-If the user chooses to exit, it displays the message "Thankyou, Have a good day." and terminates the program.
+If the user chooses to exit, it displays the message "Thankyou, Have a great day." and terminates the program.
 
 If any invalid choice is given, then it displays "Invalid choice" by default.
 
